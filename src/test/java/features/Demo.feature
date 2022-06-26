@@ -3,3 +3,5 @@ Feature: Validating the API
 
   Scenario: Verify Demo API
     Given Verify Demo APi payload
+    When the demo is verified
+    
